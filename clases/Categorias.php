@@ -1,5 +1,5 @@
 <?php 
-		
+		/* facultad luis fernando */
 	require_once "Conexion.php";
 	class Categorias extends Conectar {
 		public function agregarCategoria($datos) {
